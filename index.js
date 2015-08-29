@@ -55,6 +55,13 @@ var settings = module.exports = {
     expires: 60 // minutes
   },
 
+  serviceItem:{
+    car: {
+      merchant: 'xiaoju',
+      url: 'http://es.xiaojukeji.com/'
+    }
+  },
+
   wechat: {
     appKey: 'wx23f1709f7727051f',
     appSecret: '977f6080e128d465b673deb79e3d31b8',
