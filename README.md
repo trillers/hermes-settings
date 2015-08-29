@@ -1,1 +1,1 @@
-# athena-settings
+# hermes-settings
