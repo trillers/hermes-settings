@@ -1,0 +1,14 @@
+{
+  "name": "hermes-settings",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "hermes settings",
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/trillers/hermes-settings.git"
+  },
+  "main": "index.js",
+  "author": "henryleu@126.com",
+  "license": "",
+  "dependencies": {
+  }
+}
